@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Elk Bedrijfsbezoek</title>
+    <link rel="stylesheet" type="text/css" href="https://github.com/minorsmart/portfolio-florisbarten/blob/master/portfolio/style.css">
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <header id="main-header">
+        <div class="container">
+        <h1>  <img src="elklogo.png" alt="Cyclebase" style="width:106,4px;height:100px;">Bedrijfsbezoek</h1>
+    </header>
+
+    <div class="container"></div>
+    <section id="main">
+    <h1>Feedback</h1>
+    <p>Vanuit de klas kwamen alleen maar positieve geluiden. Het was goed georganiseerd ondanks de wellicht wat onzekere tijd. De voorbeelden uit de praktijk zorgden ervoor dat iedereen het begreep ondanks de verschillende achtergronden. Door te beginnen met een quiz zat iedereen op één lijn en dat beviel veel mensen. Bedankt voor de goed georganiseerde dag!</p>
+
+    <section id="showcase">
+            <div class="container">
+                <h1>Hieronder staan de presentaties/posters aan de hand van de casussen van Elk.</h1>
+            </div>
+    </section>
+
+    <div class="container"></div>
+        <section id="main">
+        <h1>Cyclebase</h1>
+        <p>Cyclebase is een database dat verschillende data aan elkaar kan koppelen waardoor het inzichtelijk is wat voor materialen er in de verschillende panden zijn aangebracht. Hierdoor kan in de toekomst bij een sloop direct gekeken worden wat de staat van de materialen is en waar het nog meer voor gebruikt kan worden.</p>
+        <img src="cyclebase.jpg" alt="Cyclebase" style="width:700px;height:450px;">
+    </section>
+
+    <div class="container"></div>
+    <section id="main">
+    <h1>Wonen</h1>
+    <p>Wat worden de trends omtrent het wonen in de toekomst?</p>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTziEemtFAuCWRUJfmRAWxVM5t5e_4_qNiNy2Zg0tOJOs42UZDBo6J_wV4VPV9A5g/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </section>
+
+    <div class="container"></div>
+    <section id="main">
+    <h1>Real Life Sims</h1>
+    <p>Het idee is dat de staat van de woning live te bekijken is in een systeem van Elk. Zo kan je zien dat een kozijn na 5 jaar geschilderd moet worden of wanneer die om een bepaalde reden beschadigd is al eerder geschilderd moet worden. Het wordt dan gemeten met sensoren die bijvoorbeeld onder de verflaag liggen.</p>
+    <img src="Reallifesims.JPG" alt="Real Life Sims" style="width:700px;height:450px;">
+</section>
+
+<div class="container"></div>
+<section id="main">
+<h1>Vitaliteit</h1>
+<p>In de powerpoint staan verschillende oplossingen om met fysieke werk bij Elk toch gezond 70 jaar oud te worden.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCrUj44Bdo8Zg-fInhBqeT9UHbAH7Z-ACSwxzkYwyBiRAGU4aTM7WS6s-Gv5OSfA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</section>
+
+<footer id="main-footer">
+    <p>Door Floris Barten</p>
+</footer>
+</body>
+</html>
